@@ -1,6 +1,6 @@
 ## Rebuttal_For_IMML
 
-# Figure 2. 
+# Figure 2. We conduct the same mask experiments with Figure (1c) in the manuscript. In Figure 2 of this GitHub, the coordinates settings of subfigure (2b) and (2c) are the same as the (2a).
 ![这是图片](Heatmap.png "Magic Gardens")
 
 # Figure 3. 
